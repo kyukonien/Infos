@@ -20,6 +20,6 @@ Currently learning:
 
 ## Projects
 - **KeyKeep** - A secure, cross-platform password safe in development.
-
+- **SwiftGate** - A secure, cross-plattform FTP client in developement.
 
 Feel free to reach out and connect!
