@@ -1,6 +1,10 @@
 # About Me
 
 Hello! I'm Kyukonien (David Ammann), a software developer and tech enthusiast from Switzerland. I’m passionate about coding, cybersecurity, photography, and all things technology.
+Fluent in German, English, Portuguese
+Currently learning:
+- French
+- Japanese
 
 ## Interests
 - 🖥️ Software Development
@@ -14,5 +18,6 @@ Hello! I'm Kyukonien (David Ammann), a software developer and tech enthusiast fr
 
 ## Projects
 - **KeyKeep** - A secure, cross-platform password safe in development.
+
 
 Feel free to reach out and connect!
